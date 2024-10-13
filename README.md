@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi 👋 I'm Waruna
 
+I'm a full-stack developer, Rubyist. I work with Vue, React, Express and Go 
+
+
+
+- [I blog about programming][https://dev.to/waruna]
+
+Want to get in touhch? Send me a message on [LinkedIn] (https://www.linkedin.com/in/warunacds) or [X.com](https://x.com/warunacds)
+  
 <!--
 **warunacds/warunacds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
