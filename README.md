@@ -1,7 +1,8 @@
 ## Hi 👋 I'm Waruna
 
-I'm a full-stack developer, Rubyist. I work with Vue, React, Express and Go 
+I'm a full-stack developer, Rubyist. These days I work with Ruby on Rails, Vue, React and Go.
 
+I'm pretty handy with iOS and Android app development as well.
 
 
 - [I blog about programming][https://dev.to/waruna]
