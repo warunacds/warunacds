@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Waruna
 
-I'm a full-stack developer, Rubyist. These days I work with Ruby on Rails, Vue, React and Go.
+I'm a full-stack developer, Ruby, JavaScript, and Go are my favorite languages.
 
 I'm handy with iOS and Android app development as well.
 
