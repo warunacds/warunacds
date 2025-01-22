@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Waruna
 
-I'm a full-stack developer, JavaScript, Ruby and Go are my favorite languages.
+I'm a full-stack developer, JavaScript, Ruby Swift are my favorite languages.
 
 I'm handy with iOS and Android app development as well.
 
