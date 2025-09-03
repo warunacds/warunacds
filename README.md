@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Waruna
 
-- [I occasionaly blog about][https://dev.to/waruna]
+- [I occasionaly blog at][https://dev.to/waruna]
 
 Want to get in touhch? Send me a message on [LinkedIn](https://www.linkedin.com/in/warunacds) or [X.com](https://x.com/warunacds)
   
