@@ -2,7 +2,7 @@
 
 - [I occasionaly blog at][https://dev.to/waruna]
 
-Want to get in touhch? Send me a message on [LinkedIn](https://www.linkedin.com/in/warunacds) or [X.com](https://x.com/warunacds)
+Want to get in touch? Send me a message on Twitter [X.com](https://x.com/warunacds)
   
 <!--
 **warunacds/warunacds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
