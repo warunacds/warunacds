@@ -1,11 +1,6 @@
 ## Hi 👋 I'm Waruna
 
-I'm a lead developer. Swift, Kotlin, JavaScript, Ruby  are my favorite languages.
-
-I'm handy with iOS and Android app development as well.
-
-
-- [I blog about programming][https://dev.to/waruna]
+- [I occasionaly blog about][https://dev.to/waruna]
 
 Want to get in touhch? Send me a message on [LinkedIn](https://www.linkedin.com/in/warunacds) or [X.com](https://x.com/warunacds)
   
