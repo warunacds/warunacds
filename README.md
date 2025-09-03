@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Waruna
 
-- [I occasionaly blog at][https://dev.to/waruna]
+I occasionaly blog at [https://dev.to/waruna]
 
 Want to get in touch? Send me a message on Twitter [X.com](https://x.com/warunacds)
   
